@@ -1,10 +1,12 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
+<h3> <a href="https://github.com/yonismuse/osTicket-prereqs"> Enterprise Help Desk System Implementation Part 1</a></h3>
+<h3> <a href="https://github.com/yonismuse/osticket-post"> Enterprise Help Desk System Implementation Part 2</a></h3>
 
 <h1>osTicket - LifeCycle Examples Setup</h1>
 </p>
-This tutorial demonstrates the creation of tickets as an end user .<br />
+This final part of the project demonstrates the creation of tickets as an end user .<br />
 
 </p>
 </p>
